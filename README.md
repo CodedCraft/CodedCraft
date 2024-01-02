@@ -21,6 +21,14 @@ Linux.
 ## :leetcode: Algorithmic Adventures
 - [LeetCode](https://leetcode.com/CodedCraft/)
 
+## 🚀 Projects
+- ***HHKBxPlanck*** **- Custom Keyboard:** Handwired with a mix between the Planck and HHKB, 
+featuring 41 keys for a unique and efficient typing experience.
+- ***LuminaDesk*** **- A Monitor Lamp:** Similar to the BenQ ScreenBar Halo, with a remote dial for 
+convenient control, providing optimal lighting for productivity.
+- ***Pocato*** **- A Productivity Suite:** A personalized productivity suite designed to enhance 
+workflow efficiency and organization.
+
 ## 🛠️ Hobbies
 - **CAD & 3D Printing:** Creating digital masterpieces and bringing them to life with the magic of 3D printing.
 - **FPV Drones:** Designing, building, and navigating the skies with FPV drones, exploring the world from a unique perspective.
