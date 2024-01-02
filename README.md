@@ -21,9 +21,6 @@ Arch Linux.
 - **Boards:** Proficient with Espressif and Nordic boards, exploring the infinite possibilities of the Internet of Things (IoT).
 - **Projects:** From home automation to data telemetry, my IoT ventures showcase the fusion of software magic and hardware wonders.
 
-## 📈 GitHub Stats
-![Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true)
-
 ## 📬 Let's Collaborate
 Whether it's diving into the Rust wilderness, optimizing Neovim configurations, or unleashing IoT wonders, I'm always up for an adventure. Let's code the future together!
 
