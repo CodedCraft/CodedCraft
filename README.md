@@ -1,16 +1,30 @@
-<h1 align="center">Hi 👋, I'm Philip</h1>
-<h3 align="center">A passionate software developer from Switzerland</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+# 👋 Hello World! I'm Philip, a Polyglot Developer & IoT Enthusiast 🚀🇨🇭
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codedcraft&label=Profile%20views&color=0e75b6&style=flat" alt="codedcraft" /> </p>
+Greetings, fellow coders! I'm Philip, a self-taught developer with a knack for Rust, C, and Python. 
+My code journey is set against the scenic backdrop of Neovim, all running smoothly on the majestic 
+Arch Linux.
 
-- 🔭 I’m currently working on **Pocato**
+## 💻 Tech Stack
+- **Languages:** Rust 🦀, C, Python 🐍
+- **Tools:** Neovim ✨, Arch Linux 🐧, Git, Docker 🐳
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/codedcraft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codedcraft" height="30" width="40" /></a>
-</p>
+## 🛠️ Rust, Neovim, and Arch Linux - My Trifecta
+- **Rustacean:** Crafting efficient and reliable software with Rust, because programming should be delightful and fearless.
+- **Neovim Aficionado:** Embracing the elegance of Neovim to edit text at the speed of thought, because every keystroke should feel like a dance.
+- **Arch Linux Advocate:** Navigating the Arch way, because simplicity is the ultimate sophistication.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
+## 🌐 Connect with Me
+<!-- - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/) -->
+- [LeetCode](https://leetcode.com/CodedCraft/)
 
+## 🚀 IoT Explorer
+- **Boards:** Proficient with Espressif and Nordic boards, exploring the infinite possibilities of the Internet of Things (IoT).
+- **Projects:** From home automation to data telemetry, my IoT ventures showcase the fusion of software magic and hardware wonders.
+
+## 📈 GitHub Stats
+![Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true)
+
+## 📬 Let's Collaborate
+Whether it's diving into the Rust wilderness, optimizing Neovim configurations, or unleashing IoT wonders, I'm always up for an adventure. Let's code the future together!
+
+**Happy Coding and May the Bits Be Ever in Your Favor! 🚀**
