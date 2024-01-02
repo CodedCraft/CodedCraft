@@ -1,5 +1,5 @@
 ![Header](./assets/github-header-image.png)
-# 👋 Hello World! I'm Philip, a Polyglot Developer & IoT Enthusiast 🚀 🇨🇭
+# 👋 Hi, I'm Philip, a Polyglot Developer & IoT Enthusiast 🚀 🇨🇭
 
 Greetings, fellow coders! I'm Philip, a self-taught developer with a penchant for Rust, C, and 
 Python. I have a particular fondness for shaping the Internet of Things (IoT) landscape. My code 
