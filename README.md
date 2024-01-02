@@ -13,8 +13,7 @@ Arch Linux.
 - **Neovim Aficionado:** Embracing the elegance of Neovim to edit text at the speed of thought, because every keystroke should feel like a dance.
 - **Arch Linux Advocate:** Navigating the Arch way, because simplicity is the ultimate sophistication.
 
-## 🌐 Connect with Me
-<!-- - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/) -->
+## :leetcode: Algorithmic Adventures
 - [LeetCode](https://leetcode.com/CodedCraft/)
 
 ## 🚀 IoT Explorer
