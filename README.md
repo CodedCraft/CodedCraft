@@ -1,3 +1,4 @@
+![Header](./assets/github-header-image.png)
 # 👋 Hello World! I'm Philip, a Polyglot Developer & IoT Enthusiast 🚀 🇨🇭
 
 Greetings, fellow coders! I'm Philip, a self-taught developer with a penchant for Rust, C, and 
