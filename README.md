@@ -10,6 +10,15 @@ Linux.
 - **Boards:** Proficient with Espressif and Nordic boards, exploring the infinite possibilities of the Internet of Things (IoT).
 - **Projects:** From home automation to data telemetry, my IoT ventures showcase the fusion of software magic and hardware wonders.
 
+## 🚀 Projects
+### ***HHKBxPlanck*** - A Custom Handwired Keyboard running ZMK:
+Handwired with a mix between the Planck and HHKB, featuring 41 keys for a unique and efficient 
+typing experience.
+### ***LuminaDesk*** - A Monitor Lamp: Similar to the BenQ ScreenBar Halo
+A with a remote dial for convenient control, providing optimal lighting for productivity.
+### ***Pocato*** - A Productivity Suite: A personalized productivity suite
+Designed to enhance workflow efficiency and organization.
+
 ## 💻 Tech Stack
 - **Languages:** Rust 🦀, C, Python 🐍
 - **Tools:** Neovim ✨, Arch Linux 🐧, Git, Docker 🐳
@@ -21,15 +30,6 @@ Linux.
 
 ## 🧮 Algorithmic Adventures on ![Leetcode](https://leetcode.com/CodedCraft/)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/CodedCraft?theme=nord&font=Abel)
-
-## 🚀 Projects
-### ***HHKBxPlanck*** - A Custom Handwired Keyboard running ZMK:
-Handwired with a mix between the Planck and HHKB, featuring 41 keys for a unique and efficient 
-typing experience.
-### ***LuminaDesk*** - A Monitor Lamp: Similar to the BenQ ScreenBar Halo
-A with a remote dial for convenient control, providing optimal lighting for productivity.
-### ***Pocato*** - A Productivity Suite:** A personalized productivity suite
-Designed to enhance workflow efficiency and organization.
 
 ## 🛠️ Hobbies
 - **CAD & 3D Printing:** Creating digital masterpieces and bringing them to life with the magic of 3D printing.
