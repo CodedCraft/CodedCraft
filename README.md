@@ -18,9 +18,8 @@ Linux.
 - **Neovim Aficionado:** Embracing the elegance of Neovim to edit text at the speed of thought, because every keystroke should feel like a dance.
 - **Arch Linux Advocate:** Navigating the Arch way, because simplicity is the ultimate sophistication.
 
-## 
-[icon](https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=512) 
-Algorithmic Adventures
+## 🧮 Algorithmic Adventures
+![My Leetcode](https://leetcode.com/CodedCraft/)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/CodedCraft?theme=nord&font=Abel)
 
 ## 🚀 Projects
