@@ -18,14 +18,17 @@ Linux.
 - **Neovim Aficionado:** Embracing the elegance of Neovim to edit text at the speed of thought, because every keystroke should feel like a dance.
 - **Arch Linux Advocate:** Navigating the Arch way, because simplicity is the ultimate sophistication.
 
-## :leetcode: Algorithmic Adventures
-- [LeetCode](https://leetcode.com/CodedCraft/)
+## 
+[icon](https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=512) 
+Algorithmic Adventures
+![LeetCode Stats](https://leetcard.jacoblin.cool/CodedCraft?theme=nord&font=Abel)
 
 ## 🚀 Projects
-- ***HHKBxPlanck*** **- Custom Keyboard:** Handwired with a mix between the Planck and HHKB, 
-featuring 41 keys for a unique and efficient typing experience.
-- ***LuminaDesk*** **- A Monitor Lamp:** Similar to the BenQ ScreenBar Halo, with a remote dial for 
-convenient control, providing optimal lighting for productivity.
+### ***HHKBxPlanck*** - A Custom Handwired Keyboard running ZMK:
+Handwired with a mix between the Planck and HHKB, featuring 41 keys for a unique and efficient 
+typing experience.
+### ***LuminaDesk*** - A Monitor Lamp: Similar to the BenQ ScreenBar Halo
+A with a remote dial for convenient control, providing optimal lighting for productivity.
 - ***Pocato*** **- A Productivity Suite:** A personalized productivity suite designed to enhance 
 workflow efficiency and organization.
 
