@@ -11,12 +11,12 @@ Linux.
 - **Projects:** From home automation to data telemetry, my IoT ventures showcase the fusion of software magic and hardware wonders.
 
 ## 🚀 Projects
-### ⌨️ ***HHKBxPlanck*** - A Custom Handwired Keyboard running ZMK:
+### ⌨️ ***[HHKBxPlanck](https://github.com/CodedCraft/HHKBxPlanck.git)*** - A Custom Handwired Keyboard running ZMK:
 Handwired with a mix between the Planck and HHKB, featuring 41 keys for a unique and efficient 
 typing experience.
-### 💡 ***LuminaDesk*** - A Monitor Lamp: Similar to the BenQ ScreenBar Halo
+### 💡 ***[LuminaDesk](https://github.com/CodedCraft/lumina-desk.git)*** - A Monitor Lamp: Similar to the BenQ ScreenBar Halo
 A with a remote dial for convenient control, providing optimal lighting for productivity.
-### 🗓️ ***Pocato*** - A Productivity Suite: A personalized productivity suite
+### 🗓️ ***[Pocato](https://github.com/CodedCraft/pocato)*** - A Productivity Suite: A personalized productivity suite
 Designed to enhance workflow efficiency and organization.
 
 ## 💻 Tech Stack
