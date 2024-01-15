@@ -10,7 +10,7 @@ Linux.
 - **Boards:** Proficient with Espressif and Nordic boards, exploring the infinite possibilities of the Internet of Things (IoT).
 - **Projects:** From home automation to data telemetry, my IoT ventures showcase the fusion of software magic and hardware wonders.
 
-## 🚀 Projects
+## 🚀 Notable projects
 ### ⌨️ ***[HHKBxPlanck](https://github.com/CodedCraft/HHKBxPlanck.git)*** - A Custom Handwired Keyboard running ZMK:
 Handwired with a mix between the Planck and HHKB, featuring 41 keys for a unique and efficient 
 typing experience.
@@ -18,6 +18,8 @@ typing experience.
 A with a remote dial for convenient control, providing optimal lighting for productivity.
 ### 🗓️ ***[Pocato](https://github.com/CodedCraft/pocato)*** - A Productivity Suite: A personalized productivity suite
 Designed to enhance workflow efficiency and organization.
+### 🎄 ***[Advent of Code](https://github.com/CodedCraft/adventofcode2023)*** - Advent of Code 2023 Solutions in Rust
+A collection of my solutions to the Advent of Code 2023 challenges.
 
 ## 💻 Tech Stack
 - **Languages:** Rust 🦀, C, Python 🐍
